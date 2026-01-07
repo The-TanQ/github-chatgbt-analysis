@@ -20,6 +20,7 @@ The project requires the following Python libraries:
 ## How to Run
 
 1. Ensure all required libraries are installed
+2. Unzip `github.zip`
 2. Open the Jupyter notebooks in a Jupyter environment
 3. Run the cells in sequence to reproduce the analysis
 
